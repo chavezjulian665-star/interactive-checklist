@@ -1,1 +1,13 @@
-# Mi primer rastreador de metas interactivo. Hecho desde mi celular.
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mis Metas</title>
+</head>
+<body>
+    <h1>🎯 Mis Metas de Programación</h1>
+    <p>¡Hola mundo! Esta es mi primera página web creada desde la app de GitHub.</p>
+</body>
+</html>
